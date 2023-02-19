@@ -5,6 +5,7 @@
 - 😄 Pronomes: ela/dela
 
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bernadete1004&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernadete1004&show_icons=true&theme=synthwave)](https://github.com/Bernadete1004/github-readme-stats)
 
 
@@ -30,6 +31,7 @@
   
   
 </div>
+
 
 
 
