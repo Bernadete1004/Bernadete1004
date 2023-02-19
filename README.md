@@ -31,9 +31,9 @@
   
 </div>
 
-<div align="left">
+<div align="right">
 
-  ![Snake animation]([https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg](https://github.com/Bernadete1004))
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
