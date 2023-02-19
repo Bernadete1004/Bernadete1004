@@ -1,14 +1,13 @@
-## 𝓞𝓵𝓪́! 𝓜𝓮 𝓬𝓱𝓪𝓶𝓸 𝓑𝓮𝓻𝓷𝓪𝓭𝓮𝓽𝓮 𝓡𝓮𝓭𝓻𝓲𝓰𝓾𝓮𝓼!👋
+## 𝓞𝓵𝓪́! 𝓜𝓮 𝓬𝓱𝓪𝓶𝓸 𝓑𝓮𝓻𝓷𝓪𝓭𝓮𝓽𝓮 𝓡𝓮𝓭𝓻𝓲𝓰𝓾𝓮𝓼!👋  <img align="right" alt="HTML" height="100" width="100" src="https://i.picasion.com/pic92/860da4c2876620b1b9634418b663726c.gif"/></a><br />
+
+
 
 - 🔭 Estou trabalhando com front-end
 - 👩🏻‍💻 Formada em técnico de informática para internet no Instituto Federal
 - 😄 Pronomes: ela/dela
 
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bernadete1004&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernadete1004&show_icons=true&theme=synthwave)](https://github.com/Bernadete1004/github-readme-stats)
-
-
 
 
 <div style="display: inline_block"><br>
@@ -27,7 +26,7 @@
   <a href="https://www.instagram.com/ro_bebell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatobernadeterodrigues1000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bernadete-rodrigues-albuquerque-425a8922b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="right" alt="HTML" height="100" width="100" src="https://i.picasion.com/pic92/860da4c2876620b1b9634418b663726c.gif"/></a><br />
+  
   
   
 </div>
