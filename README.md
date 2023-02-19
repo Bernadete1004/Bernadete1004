@@ -1,4 +1,4 @@
-## Olá! Me chamo Bernadete Rodrigues!👋
+## 𝓞𝓵𝓪́! 𝓜𝓮 𝓬𝓱𝓪𝓶𝓸 𝓑𝓮𝓻𝓷𝓪𝓭𝓮𝓽𝓮 𝓡𝓮𝓭𝓻𝓲𝓰𝓾𝓮𝓼!👋
 
 - 🔭 Estou trabalhando com front-end
 - 👩🏻‍💻 Formada em técnico de informática para internet no Instituto Federal
