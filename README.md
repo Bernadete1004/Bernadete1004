@@ -1,7 +1,7 @@
-## Olá! Me chamo Bernadete!👋
+## Olá! Me chamo Bernadete Rodrigues!👋
 
 - 🔭 Estou trabalhando com front-end
-- 👩🏻‍💻 Formada em técnico de informática para internet no Insituto Federal
+- 👩🏻‍💻 Formada em técnico de informática para internet no Instituto Federal
 - 😄 Pronomes: ela/dela
 
 
